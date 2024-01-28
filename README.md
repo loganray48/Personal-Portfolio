@@ -16,4 +16,4 @@ The programming language I used is Python. The best language. It was used becaus
 
 # Useful Websites
 
-[Salary Data Analysis](SalaryData/SalaryData.html)
+[Salary Data Analysis](SalaryData)
