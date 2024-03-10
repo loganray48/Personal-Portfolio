@@ -1,12 +1,6 @@
 # Overview
 
-Using Python to display "Hello World"
-
-Purpose for creating this is to make sure that my Python is up to date and is working properly in Visual Studio Code. 
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/ButcFNk2akQ))
+In this, I will be cleaning and getting ready our dataset for a Machine Learning Model. 
 
 # Development Environment
 
@@ -16,4 +10,4 @@ The programming language I used is Python. The best language. It was used becaus
 
 # Useful Websites
 
-[Salary Data Analysis](SalaryData)
+
